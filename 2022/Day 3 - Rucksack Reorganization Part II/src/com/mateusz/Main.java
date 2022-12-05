@@ -12,7 +12,6 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, IOException {
         BufferedReader reader = new BufferedReader(new FileReader("src/com/mateusz/input.txt"));
         String line;
-        int lineCounter = 1;
         int prioritySum = 0;
 
         ArrayList<String> lines = new ArrayList<>();
