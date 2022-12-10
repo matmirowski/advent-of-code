@@ -7,7 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-
     public static int START_X = 1000;
     public static int START_Y = 1000;
     public static int MAX_SIZE = 2000;
@@ -40,9 +39,10 @@ public class Main {
             }
             else if (head.getX() == tail.getX() - 1)
                 tail.move('L');
-            else if (head.getX() == tail.getX() - 2)
+            else if (head.getX() == tail.getX() - 2) {
                 tail.move('L');
                 tail.move('L');
+            }
             tail.move('D');
         }
     }
