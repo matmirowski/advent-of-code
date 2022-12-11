@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="272ac38d-724a-45d6-b6ea-26a6dbcaaa0b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4fbf3a90-57c5-46c7-90da-ebed55ed40af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 11 - Monkey in the Middle Part II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mateusz/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mateusz/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mateusz/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 - Monkey in the Middle/src/com/mateusz/Monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 11 - Monkey in the Middle/src/com/mateusz/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10 - Cathode-Ray Tube Part II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10 - Cathode-Ray Tube Part II/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +31,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IjDRyn59MyGO6D8iFtXBtfYSlM" />
+  <component name="ProjectId" id="2IlboOFFnTVuJiRLz4rik2Ya9q9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -84,10 +92,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/mateusz" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/mateusz" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.mateusz.Main" />
-      <module name="Day 10 - Cathode-Ray Tube Part II" />
+      <module name="Day 11 - Monkey in the Middle Part II" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -104,11 +120,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="272ac38d-724a-45d6-b6ea-26a6dbcaaa0b" name="Changes" comment="" />
-      <created>1670686097148</created>
+      <changelist id="4fbf3a90-57c5-46c7-90da-ebed55ed40af" name="Changes" comment="" />
+      <created>1670759292388</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670686097148</updated>
+      <updated>1670759292388</updated>
     </task>
     <servers />
   </component>
@@ -122,21 +138,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mateusz/Main.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mateusz/Main.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
