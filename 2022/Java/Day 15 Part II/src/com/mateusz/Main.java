@@ -12,16 +12,22 @@ public class Main {
         for (int x = 0; x <= 4_000_000; x++) {
             for (int y = 0; y <= 4_000_000; y++) {
                 boolean isOkay = true;
-                for (Sensor sensor : sensors) {
+                for (int i = 0; i < sensors.size(); i++) {
+                    Sensor sensor = sensors.get(i);
                     if ((sensor.getBeaconX() == x && sensor.getBeaconY() == y) || sensor.isFieldBlocked(x, y)) {
                         isOkay = false;
                         break;
                     }
                 }
                 if (isOkay) {
+                    System.out.println(x * 4_000_000L + y);
                     return x * 4_000_000 + y;
                 }
             }
+            if (x % 1000 == 0) {
+                System.out.println(x);
+            }
+
         }
         return -1;
     }
