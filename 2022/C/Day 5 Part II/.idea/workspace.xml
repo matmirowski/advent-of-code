@@ -8,7 +8,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="Day_3_Part_II" targetName="Day_3_Part_II" />
+      <config projectName="Day_5_Part_II" targetName="Day_5_Part_II" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -17,7 +17,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb10d764-9abd-4e5c-bb0c-d34e31eb8eec" name="Changes" comment="">
+    <list default="true" id="ec4f6886-1813-4218-b5e1-a1908487b578" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Day 5 Part I/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 5 Part I/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 5 Part I/.idea/Day 5 Part I.iml" afterDir="false" />
@@ -27,14 +27,15 @@
       <change afterPath="$PROJECT_DIR$/../Day 5 Part I/CMakeLists.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 5 Part I/cmake-build-debug/input.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day 5 Part I/main.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/.idea/Day 5 Part II.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 5 Part II/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Day 5 Part II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day_3_Part_II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day_3_Part_II/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="2.3" />
   </component>
-  <component name="ProjectId" id="2JSVemmu2vi4QmMG3FrN8Tg792w" />
+  <component name="ProjectId" id="2JSj0EMMivJRXuYagVmHX2QX15e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -79,7 +80,7 @@
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day_3_Part_II" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Day_3_Part_II" TARGET_NAME="Day_3_Part_II" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Day_3_Part_II" RUN_TARGET_NAME="Day_3_Part_II">
+    <configuration name="Day_5_Part_II" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Day_5_Part_II" TARGET_NAME="Day_5_Part_II" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Day_5_Part_II" RUN_TARGET_NAME="Day_5_Part_II">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -88,12 +89,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cb10d764-9abd-4e5c-bb0c-d34e31eb8eec" name="Changes" comment="" />
-      <created>1672071568707</created>
+      <changelist id="ec4f6886-1813-4218-b5e1-a1908487b578" name="Changes" comment="" />
+      <created>1672078153945</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672071568707</updated>
-      <workItem from="1672071570180" duration="2930000" />
+      <updated>1672078153945</updated>
+      <workItem from="1672078155578" duration="333000" />
     </task>
     <servers />
   </component>
