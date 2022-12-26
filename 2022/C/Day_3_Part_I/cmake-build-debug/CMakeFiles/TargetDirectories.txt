@@ -1,0 +1,3 @@
+C:/Projekty/advent-of-code/2022/C/Day_3_Part_I/cmake-build-debug/CMakeFiles/Day_3_Part_I.dir
+C:/Projekty/advent-of-code/2022/C/Day_3_Part_I/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projekty/advent-of-code/2022/C/Day_3_Part_I/cmake-build-debug/CMakeFiles/rebuild_cache.dir
