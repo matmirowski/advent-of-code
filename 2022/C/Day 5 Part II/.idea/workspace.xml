@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -18,16 +18,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec4f6886-1813-4218-b5e1-a1908487b578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day 6/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/.idea/Day 6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/cmake-build-debug/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day 6/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/.idea/Day 14 Part I.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/cmake-build-debug/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 14 Part I/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10 Part I/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10 Part I/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10 Part II/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10 Part II/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 10 Part II/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 10 Part II/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 8 Part II/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 8 Part II/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day 9 Part I/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Day 9 Part I/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,28 +59,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projekty\advent-of-code\2022\C\Day 5 Part II\cmake-build-debug" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Day_5_Part_II" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Day_5_Part_II" TARGET_NAME="Day_5_Part_II" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Day_5_Part_II" RUN_TARGET_NAME="Day_5_Part_II">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -92,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1672078153945</updated>
       <workItem from="1672078155578" duration="2198000" />
+      <workItem from="1672258127960" duration="5000" />
     </task>
     <servers />
   </component>
